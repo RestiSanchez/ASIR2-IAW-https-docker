@@ -8,7 +8,8 @@
 - SSH (22/TCP)
 - HTTP (80/TCP)
 - HTTPS (443/TCP)
-- 
+
+
 ### Paso 2
 **Obtener la dirección IP** de la instancia EC2 en AWS.
 
